@@ -2,7 +2,7 @@ import java.util.*;
 
 /*
  * @Description:
- * 
+ * 不错
  * 除自身以外数组的乘积
  * 给你一个整数数组 nums，返回数组 answer，其中 answer[i] 等于 nums 中除 nums[i] 之外其余各元素的乘积 。
  * 题目数据保证数组 nums 之中任意元素的全部前缀元素和后缀的乘积都在 32 位 整数范围内。
